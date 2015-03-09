@@ -1,4 +1,4 @@
-# SixArm.com » jQuery » <br> Plugin Boilerplate
+# jQuery » <br> Plugin Boilerplate
 
 * Repo: <http://github.com/sixarm/sixarm_jquery_plugin_boilerplate>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
